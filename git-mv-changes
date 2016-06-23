@@ -3,10 +3,10 @@
 if [ "$#" -lt 3 ]; then
   echo -e "
 NAME
-    mv-changes - move specific changes from one commit to another.
+    git mv-changes - move specific changes from one commit to another.
 
 SYNOPSIS
-    mv-changes <source> <destination> <path>
+    git mv-changes <source> <destination> <path>
 
 OPTIONS
     <source>, <destination> - git revision pointers in any format

@@ -1,11 +1,11 @@
 # git-mv-changes
 NAME
     
-    mv-changes - move specific changes from one commit to another.
+    git mv-changes - move specific changes from one commit to another.
 
 SYNOPSIS
     
-    mv-changes <source> <destination> <path>...
+    git mv-changes <source> <destination> <path>...
 
 OPTIONS
 
